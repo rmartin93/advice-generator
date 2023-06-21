@@ -8,4 +8,4 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://advice-generator-smoky-seven.vercel.app/)
+- Solution URL: [https://advice-generator-smoky-seven.vercel.app/](https://advice-generator-smoky-seven.vercel.app/)
